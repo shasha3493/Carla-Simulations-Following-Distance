@@ -6,11 +6,11 @@ If you are using Windows, run the following commands in PowerShell
 
 1. Clone the repository
 
-    `git clone`
+    `git clone https://github.com/shasha3493/Carla-Simulations-Following-Distance.git`
   
 2. Change to the working directory
 
-    `cd `
+    `cd Carla-Simulations-Following-Distance `
  
 3. Create the virtual environment and activate
 
